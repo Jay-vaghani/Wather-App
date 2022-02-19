@@ -13,7 +13,7 @@ app.get("/", function(req, res){
    
 })
 
-app.post("/", function(req, res){
+app.post("https://jay-vaghani.github.io/", function(req, res){
 
 
     let query = req.body.cityName
